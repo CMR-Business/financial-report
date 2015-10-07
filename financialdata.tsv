@@ -1,0 +1,312 @@
+Date	Transaction Name	Vendor	Subteam	Order ID	Cost	Order Cost
+9/14/2014	Power Supply	Amazon	Electrical	0914a1	184.90	184.90
+9/14/2014	Transciever	Amazon	Electrical	0914a1	172.80	172.80
+9/14/2014	Anti Static Mat	Amazon	Electrical	0914a1	17.90	17.90
+9/18/2014	Solid State Drive	Amazon	Electrical	0918a1	59.95	59.95
+9/18/2014	Memeory Card	Amazon	Electrical	0918a2	42.99	42.99
+9/18/2015	Intel NUC	Newegg	Software	0918a3	272.12	272.12
+9/19/2014	Tool Box	Amazon	CMR	0919a1	354.99	354.99
+10/21/2014	NetPrint	Cornell	CMR	1021a1	29.49	29.49
+11/9/2014	298:1 Micro Metal Gearmotor HP	Pololu	Task	1109d1	15.95	19.90
+11/9/2014	45 RPM HD Precision Planetary Gear Motor	ServoCity	Task	1109d2	39.99	39.99
+11/9/2014	360:1 Mini Metal Sealed Gear Motor	Robot Marketplace	Task	1109d3	18.99	24.99
+11/9/2014	Worm Gear	SDP-SI	Task	1109d4	27.90	37.02
+11/9/2014	Worm	SDP-SI	Task	1109d5	18.22	27.34
+11/9/2014	American Marine PINPOINT pH Probe	Amazon	Electrical	1109d6	39.99	39.95
+11/9/2014	36 Inch Latex Balloon White	Amazon	Task	1109d7	9.19	6.69
+11/9/2014	Sabertooth Dual 12A 6V-24V Regenerative Motor Driver	Robotshop	Electrical	1109d8	79.99	88.99
+11/11/2014	154:1 Metal Gearmotor 20Dx44L mm	Pololu	Task	1111d1	19.95	39.90
+11/11/2014	73:1 Metal Gearmotor 20Dx42L mm	Pololu	Task	1111d1	19.95	
+11/15/2014	NetPrint	Cornell	CMR	1115a1	4.92	4.92
+12/1/2014	Linear Potentiometer	Pololu	Electrical	1201d1	35.85	35.85
+12/1/2014	Drive Motors	MidWest	Drive	1201a1	3,350.00	3,350.00
+12/3/2014	Maple Dowl rod	McMaster	Drive	1203a1	2.36	63.85
+12/3/2014	Super-Swivel Ball Joint Rod Ends	McMaster	Drive	1203a1	20.36	
+12/3/2014	PTFE-Lubricated SAE 841 Bronze Flanged Bearing	McMaster	Task	1203a1	2.96	
+12/3/2014	1-1/2" Thick x 2-1/2" Width	McMaster	Task	1203a1	31.20	
+12/3/2014	Multipurpose 6061 Aluminum with Certification	McMaster	Drive	1203a2	49.49	124.83
+12/3/2014	Multipurpose 6061 Aluminum	McMaster	Drive	1203a2	4.61	
+12/3/2014	Multipurpose 6061 Aluminum	McMaster	Drive	1203a2	8.67	
+12/3/2014	Multipurpose 6061 Aluminum	McMaster	Drive	1203a2	3.17	
+12/3/2014	Multipurpose 6061 Aluminum	McMaster	Drive	1203a2	5.20	
+12/3/2014	Multipurpose 6061 Aluminum	McMaster	Drive	1203a2	4.16	
+12/3/2014	Super-Absorbent Super-Cushioning Foam	McMaster	Drive	1203a2	3.59	
+12/3/2014	Super-Resilient Extreme-Temperature Silicone Foam	McMaster	Drive	1203a2	28.74	
+12/3/2014	Super-Cushioning Polyurethane Foam	McMaster	Drive	1203a2	6.23	
+12/3/2014	DC/DC CONVERTER 12V 50W	DigiKey	Electrical	1203a3	108.68	363.83
+12/3/2014	20/12 mm Center Space Encoders	DigiKey	Task	1203a3	2.69	
+12/3/2014	CONN HEADER RT/A .100 10POS 15AU	DigiKey	Electrical	1203a3	15.98	
+12/3/2014	CONN RCPT 14POS.100 SLIM W/LATCH	DigiKey	Electrical	1203a3	8.43	
+12/3/2014	CONN HEADER VERT 4POS PCB TIN	DigiKey	Electrical	1203a3	10.28	
+12/3/2014	CONN RCPT 10POS.100 SLIM W/LATCH	DigiKey	Electrical	1203a3	7.75	
+12/3/2014	DC/DC CONVERTER 15V 50W	DigiKey	Electrical	1203a3	107.68	
+12/3/2014	IC I/O EXPANDER I2C 16B 28SDIP	DigiKey	Electrical	1203a3	12.00	
+12/3/2014	IC ADC/DAC 8-BIT I2C 16-DIP	DigiKey	Electrical	1203a3	16.75	
+12/3/2014	IC PWM CTLR LED DVR 28TSSOP	DigiKey	Electrical	1203a3	12.75	
+12/3/2014	CAP CER 0.1UF 10V 10% X5R 0402	DigiKey	Electrical	1203a3	3.00	
+12/3/2014	IC INVERTER HEX 1INPUT 14DIP	DigiKey	Electrical	1203a3	33.60	
+12/3/2014	RES 220 OHM 1/10W 1% 0603 SMD	DigiKey	Electrical	1203a3	6.85	
+12/3/2014	RES 100 OHM 1/10W 5% 0603	DigiKey	Electrical	1203a3	6.10	
+12/3/2014	568-1087-5-ND	DigiKey	Electrical	1203a3	16.75	
+12/3/2014	Newegg Item - Shanu	Amazon	Electrical	1203r1	21.81	21.81
+12/3/2014	Newegg Item - Shanu	Ebay	Electrical	1203r2	25.99	25.99
+12/3/2014	Newegg Item - Matthew Filipek	Newegg	Electrical	1203r3	14.30	411.79
+12/3/2014	Newegg Item - Matthew Filipek	Newegg	Electrical	1203r3	248.79	
+12/3/2014	Newegg Item - Shanu Dhali	Newegg	Electrical	1203r3	128.00	
+12/3/2014	Newegg Item - Shanu Dhali	Newegg	Electrical	1203r3	86.99	
+12/3/2014	Newegg Item - Justin Cray	Newegg	Electrical	1203r3	6.55	
+12/8/2014	Rectangular Bar, 1/8" x 1/2" x 3 ft 6061 aluminum	McMaster	Drive	1208a5	2.20	234.69
+12/8/2014	Corner-Mount Compression Spring Draw Latch	McMaster	Drive	1208a5	21.50	
+12/8/2014	Surface-Mount Hinge	McMaster	Drive	1208a5	4.62	
+12/8/2014	Aluminum Rod 1 1/8th diameter, 1ft long	McMaster	Drive	1208a5	9.35	
+12/8/2014	Aluminum Rod 1'' diameter, 1ft long	McMaster	Drive	1208a5	7.74	
+12/8/2014	Bars, 5/8'' thick, 1'' width	McMaster	Drive	1208a5	21.28	
+12/8/2014	Multipurpose 6061 Aluminum 1/2" Thick, 1-1/2" Width	McMaster	Drive	1208a5	25.50	
+12/8/2014	8975K482	McMaster	Drive	1208a5	13.28	
+12/8/2014	1/2" Thick, 1" Width	McMaster	Drive	1208a5	3.17	
+12/8/2014	Rectangular Bar, 5/16" x 1"	McMaster	Drive	1208a5	2.02	
+12/8/2014	7/16" Thick, 2" x 48"	McMaster	Drive	1208a5	27.43	
+12/8/2014	Spring bearing connector	McMaster	Drive	1208a5	82.36	
+12/8/2014	Soil Moisture Hygrometer Detection Sensor Module Silver Red	EachBuyer	Electrical	1208a6	3.29	3.99
+12/8/2014	Signal Crimps	Mouser	Electrical	1208a8	32.70	39.69
+12/9/2014	High Strength 1144 Medium Carbon Steel Rod Extra-Strength, 2-1/2" Diameter, 3ft	McMaster	Drive	1209a1	78.43	78.43
+12/9/2014	Tycon Power 10-15VDC In, 24VDC Out 35W Hi Power DC to DC Converter and POE inserter	Baltic Networks	Electrical	1209a2	44.05	66.06
+12/10/2014	1.25" by 1" by 12"	McMaster	Drive	1210a1	10.96	19.23
+12/10/2014	3 x 1/8 x 6 AL 6061T6 	McMaster	Drive	1210a1	2.39	
+12/11/2014	Aluminum Rod 1'' diameter, 1ft long	McMaster	Drive	1211a1	13.37	13.37
+12/18/2014	1/4" thick, 2.5" wide, 1ft long AL 6061 	McMaster	Task	1218a1	6.22	46.45
+12/18/2014	1.5" diameter 6 " cylinder/rod	McMaster	Task	1218a1	9.58	
+12/18/2014	Coated Carbide Two-Flute Drill/Mill	McMaster	Drive	1218a1	17.37	
+12/18/2014	Multipurpose 6061 Aluminum 5/8" Thick x 1-1/4" Width	McMaster	Drive	1218a1	13.28	
+12/19/2014	Unknown item	Mouser	CMR	0216a4	3.18	3.18
+1/3/2015	8975K68	McMaster	Task	0103a1	3.96	56.28
+1/3/2015	8975K596	McMaster	Task	0103a1	1.91	
+1/3/2015	8974K18	McMaster	Task	0103a1	9.58	
+1/3/2015	1610T17	McMaster	Task	0103a1	15.95	
+1/3/2015	8974K68	McMaster	Task	0103a1	18.37	
+1/3/2015	Multipurpose 6061 Aluminum Rod, 3/4" Diameter x 1ft long	McMaster	Task	0103a2	10.26	110.68
+1/3/2015	Multipurpose 6061 Aluminum Rod, 3/8" Diameter x 1 ft long	McMaster	Task	0103a2	2.61	
+1/3/2015	Multipurpose 6061 Aluminum Rod, 1/4" Diameter x 1 ft long	McMaster	Task	0103a2	1.34	
+1/3/2015	Multipurpose 6061 Aluminum, 5/8" Thick, 1-1/2" Width x 6" long	McMaster	Task	0103a2	5.56	
+1/3/2015	Multipurpose 6061 Aluminum, Rectangular Bar, 1/8" x 2" x 6" long	McMaster	Task	0103a2	1.59	
+1/3/2015	Multipurpose 6061 Aluminum 5/16" Thick, 3" Width	McMaster	Task	0103a2	5.22	
+1/3/2015	Multipurpose 6061 Aluminum Rectangular Bar, 3/16" x 3/4"	McMaster	Task	0103a2	0.97	
+1/3/2015	Multipurpose 6061 Aluminum Rectangular Bar, 3-1/4" x 3-1/4"	McMaster	Task	0103a2	39.86	
+1/3/2015	Aluminum Female Threaded Round Standoff, 1/4" OD, 1-1/4" Length, Screw size: 8-32	McMaster	Task	0103a2	2.46	
+1/3/2015	SAE 863 Bronze Sleeve Bearing for 3/4" Shaft Diameter, 1-1/4" OD, 1" Length	McMaster	Task	0103a2	6.44	
+1/3/2015	SAE 841 Bronze Sleeve Bearing for 1/4" Shaft Diameter, 5/16" OD, 1/4" Length	McMaster	Task	0103a2	0.43	
+1/3/2015	SAE 841 Bronze Sleeve Bearing for 3/4" Shaft Diameter, 7/8" OD, 1/2" Length	McMaster	Task	0103a2	1.47	
+1/3/2015	Multipurpose 6061 Aluminum Rectangular Tube 1/8" Wall Thickness, 2" x 3"	McMaster	Task	0103a2	9.88	
+1/3/2015	Electrical-Grade Fiberglass U-Channel (GP03) 2" Base x 1" Legs, 1/4" Wall Thickness, 3' Length	McMaster	Task	0103a2	14.87	
+1/3/2015	 A 1C 5MYK10RC	SDP-SI	Task	0103a3	36.56	124.59
+1/3/2015	A 1B 6-N24020	SDP-SI	Task	0103a3	39.78	
+1/3/2015	A 1C55-N24	SDP-SI	Task	0103a3	30.70	
+1/3/2015	A 1B 6MYH10R020	SDP-SI	Task	0103a4	30.58	48.13
+1/3/2015	8 Planetary Gearbox with RS775 Motor (am-2193)	AndyMark	Task	0103a5	87.97	87.97
+1/5/2015	Metric Long-life TIN-Coated Jobbers Drill Bit	McMaster	CMR	0105a1	3.23	88.28
+1/5/2015	General Purpose Tap, Through Hole (Plug), 1.6x0.35mm Thread Size	McMaster	CMR	0105a1	12.49	
+1/5/2015	General Purpose Tap, Closed-End Hole (Bottoming), 1.6x0.35mm Thread Size	McMaster	CMR	0105a1	12.49	
+1/5/2015	Metric Long-Life TIN-Coated JObbers Drill Bit, 2.5mm, 57mm Overall Length, 25.0mm Drill Depth, 118 Degree Point	McMaster	CMR	0105a1	3.23	
+1/5/2015	Square Tube 3/4"  x 3/4", 1/8" thick, 3 ft long	McMaster	Drive	0105a1	7.89	
+1/5/2015	Multipurpose 6061 Aluminum Tube 3/4" OD, .652" ID, .049" Wall Thickness by 1ft	McMaster	Drive	0105a1	7.72	
+1/5/2015	Multipurpose aluminum 6061 OD 3", 6" long	McMaster	Drive	0105a1	34.57	
+1/5/2015	3 Pin Ampmodu Connectors	DigiKey	Electrical	0105a2	23.52	157.73
+1/5/2015	3 Pin Ampmodu Connector Housings	DigiKey	Electrical	0105a2	21.16	
+1/5/2015	CAP CER 1UF 10V 10% X7R 0603	DigiKey	Electrical	0105a2	28.00	
+1/5/2015	RES SMD 10K OHM 5% 1/10W 0603	DigiKey	Electrical	0105a2	7.50	
+1/5/2015	0.1 uF decoupling capacitors	DigiKey	Electrical	0105a2	3.60	
+1/5/2015	Inverter IC	DigiKey	Electrical	0105a2	25.20	
+1/5/2015	Task H-Bridge OR gates	DigiKey	Electrical	0105a2	25.20	
+1/5/2015	Limit Switches	DigiKey	Task	0105a2	10.49	
+1/5/2015	ENCODER ROTARY 27/18MM 15PPR	DigiKey	Task	0105a2	2.80	
+1/5/2015	ALHF-A108.3-B59-L59-C5.1-D51-E98.1	Misumi	Task	0105a3	154.50	166.86
+1/5/2015	Red Standard LEDs - SMD Surface Mount LEDs	Mouser	Electrical	0105a4	4.40	46.85
+1/5/2015	Yellow Standard LEDs - SMD Surface Mount LEDs	Mouser	Electrical	0105a4	22.62	
+1/5/2015	Thick Film Resistors 1210 160ohms 5% Tolerance	Mouser	Electrical	0105a4	7.80	
+1/5/2015	Thick Film Resistors 1watt 560ohms 5%	Mouser	Electrical	0105a4	1.57	
+1/5/2015	Crimp Connector Housing: 2x10-Pin 5-Pack	Pololu	Electrical	0105a5	1.99	26.39
+1/5/2015	Premium Jumper Wire 50-Piece Rainbow Assortment F-F 12"	Pololu	Electrical	0105a5	19.99	
+1/5/2015	8 oz. Natural Large Round Wide-Mouth Jars	Uline	Electrical	0105a6	21.96	34.20
+1/5/2015	PINPOINT® pH Monitor	American Marine	Electrical	0105a7	99.00	123.00
+1/5/2015	PINPOINT® High-Precision pH Calibration Fluids (set of 12 pouches)	American Marine	Electrical	0105a7	15.00	
+1/5/2015	SSOP to DIP Adapter 28-Pin	Sparkfun	Electrical	0105a8	11.85	90.22
+1/5/2015	SparkFun 9 Degrees of Freedom - Sensor Stick	Sparkfun	Electrical	0105a8	49.95	
+1/5/2015	Optoisolator - 4 Channel	Sparkfun	Electrical	0105a8	31.50	
+1/5/2015	Waterjetting	Cornell	Drive	0105a9	459.00	459.00
+1/8/2015	Al 7075 1/4" x v1" b 12"	McMaster	Drive	0108a1	15.59	237.81
+1/8/2015	High Strength 1144 Medium Carbon Steel Rod Extra-Strength, 2-1/2" Diameter, 1ft	McMaster	Drive	0108a1	70.14	
+1/8/2015	2 mm end mill	McMaster	Drive	0108a1	62.60	
+1/8/2015	0.0197" drill	McMaster	Drive	0108a1	6.40	
+1/8/2015	0.07" end mill	McMaster	Drive	0108a1	42.47	
+1/8/2015	20 mm drill bit	McMaster	Drive	0108a1	31.96	
+1/10/2015	Multipurpose 6061 Aluminum U-Channel, 2" Base x 1" Legs	McMaster	Task	0110a1	3.59	343.94
+1/10/2015	Super-Swivel Ball Joint Rod Ends	McMaster	Drive	0110a1	61.08	
+1/10/2015	Stainless Steel L-Brackets	McMaster	Drive	0110a1	8.48	
+1/10/2015	Pivot Shift	McMaster	Drive	0110a1	20.38	
+1/10/2015	square tube (1" x 1" by 2 ft with 1/8" wall thickness)	McMaster	Drive	0110a1	12.01	
+1/10/2015	1/4" diameter shoulder screw	McMaster	Drive	0110a1	169.75	
+1/10/2015	Alloy Steel Shoulder Screw 1/4'' Diameter x 1/2''Long Shoulder, 10-24 Thread	McMaster	Drive	0110a1	25.20	
+1/10/2015	5/8" diameter rod 2 ft long	McMaster	Drive	0110a1	14.04	
+1/10/2015	shaft collars for 5/8" diameter shaft	McMaster	Drive	0110a1	20.88	
+1/12/2015	2 mm end mill	McMaster	Task	0112a1	46.95	46.95
+1/13/2015	18-8 Stainless Steel Socket Head Cap Screw	McMaster	Drive	0113a1	10.24	173.30
+1/13/2015	Alloy Steel Socket Head Cap Screws	McMaster	Drive	0113a1	10.37	
+1/13/2015	6061 Aluminum	McMaster	Drive	0113a1	5.76	
+1/13/2015	Aluminum 6061	McMaster	Drive	0113a1	2.39	
+1/13/2015	Black oxide alloy steel socket head cap screw	McMaster	Drive	0113a1	12.09	
+1/13/2015	Black Luster-Coated Steel Nylon-Insert Locknut, Hex, 5/16"-18 Thread Size, 1/2" Width, 11/32" Height	McMaster	Drive	0113a1	7.34	
+1/13/2015	Torsional Spring	McMaster	Drive	0113a1	9.26	
+1/13/2015	Lapping Grain Multipurpose, Polished, 5 Microns	McMaster	Task	0113a1	105.60	
+1/13/2015	73:1 Metal Gearmotor 20Dx42L mm	Pololu	Task	0113a2	39.90	48.35
+1/14/2015	mother's aluminum polish	Amazon	Drive	0114a1	17.98	79.31
+1/14/2015	microfiber cloths for polishing	Amazon	Drive	0114a1	12.99	
+1/15/2015	Metric Coiled Spring Pin, Steel, M8 Diameter, 19mm Length	McMaster	Drive	0115a1	23.06	31.80
+1/15/2015	Black-Oxide Class 12.9 Socket Head Cap Screw Alloy Steel, M1.6 Thread, 8 mm Long, 0.35 mm Pitch	McMaster	Task	0115a1	3.01	
+1/15/2015	NetPrint	Cornell	Business	0216a5	6.21	6.21
+1/16/2015	Metric Male-Female Threaded Hex Standoff 18-8 Stainless Steel, 6mm Hex, 20mm Length, M4 screw	McMaster	Task	0116a1	11.52	88.34
+1/16/2015	Steel Ball Bearing, Flanged Double Sealed for 1/4" Shaft Diameter, 11/16" OD	McMaster	Task	0116a1	6.79	
+1/16/2015	Steel Ball Bearing, Flanged Double Sealed for 1/2" Shaft Diameter, 1-1/8" OD	McMaster	Task	0116a1	21.26	
+1/16/2015	Stainless Steel 20 Degree Pressure Angle Spur Gear 32 Pitch, 20 Teeth, 0.625" Pitch Diameter, 1/4" Bore	McMaster	Task	0116a1	18.25	
+1/16/2015	18-8 Stainless Steel Unthreaded Spacer, 5/16" OD, 3/8" Length, No. 8 (for 8-32 clearance)	McMaster	Task	0116a1	9.12	
+1/16/2015	Steel Tapered-Roller Bearing, Roller Assembly for 1" Shaft Diameter, #L44643	McMaster	Task	0116a1	15.67	
+1/16/2015	Screw Terminal Blocks	DigiKey	Electrical	0116a2	40.25	48.71
+1/16/2015	298:1 Micro Metal Gearmotor HP	Pololu	Task	0116a3	15.95	19.90
+1/16/2015	32 Pitch Hub gears (1" bore) 128 teeth	ServoCity	Task	0116a4	16.99	23.98
+1/21/2015	Rectangular tube, 2 ft long	McMaster	Drive	0121a1	12.01	19.98
+1/21/2015	PCA9685 LED PWM I2C Driver	Mouser	Electrical	0121a2	12.35	20.89
+1/24/2015	Accupro - Corner Radius & Corner Chamfer End Mills Mill Diameter (Inch): 1/4 Mill Diameter (Decimal Inch): 0.2500	MSC	Task	0124a2	53.05	69.82
+1/24/2015	l bracket	McMaster	Drive	0124a1	6.96	72.55
+1/24/2015	4 mm end mill	McMaster	Drive	0124a1	53.28	
+1/24/2015	Steel Tapered-Roller Bearing, Outer Ring for 1" & 1-1/16" Shaft Diameter, #L44610	McMaster	Task	0124a1	6.58	
+1/25/2015	Steel Thrust Ball Bearing Steel Washers, for 1/4" Shaft Diameter, 9/16" OD	McMaster	Task	0125a1	8.84	186.06
+1/25/2015	General Purpose Tap Through Hole (Plug), 2.5 x .45mm Thread Size	McMaster	Task	0125a1	9.39	
+1/25/2015	General Purpose Tap Closed-End Hole (Bottoming), 2.5 x 0.45mm Thread Size	McMaster	Task	0125a1	9.39	
+1/25/2015	PTFE-Lubricated SAE 841 Bronze Flanged Bearing for 3/8" Shaft Diameter, 1/2" OD, 1/2" Length	McMaster	Task	0125a1	2.96	
+1/25/2015	Oil-Lubricated SAE 841 Bronze Sleeve Bearing for 3/8" Shaft Diameter, 1/2" OD, 1/4" Length	McMaster	Task	0125a1	1.46	
+1/25/2015	SAE 841 Bronze Sleeve Bearing for 3/4" Shaft Diameter, 7/8" OD, 1/2" Length	McMaster	Task	0125a1	1.47	
+1/25/2015	Zinc-Plated Grade 2 Steel Nylon-Insert Hex Locknut, 4-40 Thread Size, 1/4" Width, 9/64" Height	McMaster	Task	0125a1	2.74	
+1/25/2015	18-8 Stainless Steel Button-Head Socket Cap Screw, 4-40 Thread, 7/8" Length	McMaster	Task	0125a1	5.30	
+1/25/2015	Black-Oxide Alloy Steel Socket Head Cap Screw, 4-40 Thread, 1-1/4" Length	McMaster	Task	0125a1	5.30	
+1/25/2015	Alloy Steel Knurl-Grip Cup Point Set Screw, 4-40 Thread, 1/2" Long	McMaster	Task	0125a1	8.65	
+1/25/2015	18-8 Stainless Steel Button-Head Socket Cap Screw, 6-32 Thread, 1" Length	McMaster	Task	0125a1	5.86	
+1/25/2015	18-8 Stainless Steel Button-Head Socket Cap Screw, 8-32 Thread, 5/8" Length	McMaster	Task	0125a1	6.03	
+1/25/2015	18-8 Stainless Steel Button-Head Socket Cap Screw, M4 Size, 12 mm Length, .7 mm Pitch	McMaster	Task	0125a1	8.60	
+1/25/2015	Black-Oxide Alloy Steel Socket Head Cap Screw, 8-32 Thread, 3/8" Length	McMaster	Task	0125a1	9.16	
+1/25/2015	Black-Oxide Alloy Steel Socket Head Cap Screw, 8-32 Thread, 7/8" Length	McMaster	Task	0125a1	11.34	
+1/25/2015	18-8 Stainless Steel Button-Head Socket Cap Screw, 8-32 Thread, 1-3/4" Length	McMaster	Task	0125a1	10.49	
+1/25/2015	Black Oxide 18-8 Stainless Steel Socket Head Cap Screw 4-40 Thread Size, 5/8" Long	McMaster	Task	0125a1	8.67	
+1/25/2015	Metric Brass Pan Head Slotted Machine Screw M2.5 Size, 8mm Length, .45mm Pitch	McMaster	Task	0125a1	4.93	
+1/25/2015	2-56 x 1/2" Aluminum Socket Head Cap Screws	McMaster	Task	0125a1	9.91	
+1/25/2015	4-40 x 3/4" Aluminum Socket Head Cap Screws	McMaster	Task	0125a1	11.96	
+1/25/2015	M3x0.5 x 16mm Alloy Steel Button-Head Socket Cap Screws	McMaster	Task	0125a1	9.47	
+1/25/2015	Black-Oxide Class 12.9 Socket Head Cap Screw Alloy Steel, M1.6 Thread, 12 mm Long, 0.35mm Pitch	McMaster	Task	0125a1	7.10	
+1/25/2015	Black-Oxide Alloy Steel Socket Head Cap Screw, 8-32 Thread, 7/16" Length	McMaster	Drive	0125a1	0.10	
+1/25/2015	18-8 Stainless Steel Metric Pan Head Phillips Machine Screw	McMaster	Task	0125a1	10.87	
+1/25/2015	24DP / 2 Lead / 0.5P.D., 9.47° Right Hand Worm	SDP-SI	Task	0125a2	62.90	127.31
+1/25/2015	10:1 Gear Ratio, 20 Teeth, Worm Gear	SDP-SI	Task	0125a2	52.62	
+1/25/2015	Soil Moisture Sensor ((For Arduino) Compatible) Immersion Gold	miniinthebox	Science	0125a3	4.18	4.18
+1/30/2015	Sanding- 120 grit	McMaster	Drive	0130a1	9.49	69.38
+1/30/2015	Sanding- 120 grit	McMaster	Drive	0130a1	9.49	
+1/30/2015	Sanding- 120 grit	McMaster	Drive	0130a1	9.49	
+1/30/2015	Sanding- 120 grit	McMaster	Drive	0130a1	9.49	
+1/30/2015	Metric Cheese Head Slotted Machine Screw 18-8 Stainless Steel, M2.5 Size, 20 mm Length, .45 mm Pitch	McMaster	Task	0130a1	14.18	
+1/30/2015	Metric Cheese Head Slotted Machine Screw 18-8 Stainless Steel, M2.5 Size, 20 mm Length, .45 mm Pitch	McMaster	Task	0130a1	0.43	
+1/30/2015	Metric Cheese Head Slotted Machine Screw 18-8 Stainless Steel, M2.5 Size, 20 mm Length, .45 mm Pitch	McMaster	Task	0130a1	1.47	
+1/30/2015	Metric Cheese Head Slotted Machine Screw 18-8 Stainless Steel, M2.5 Size, 20 mm Length, .45 mm Pitch	McMaster	Task	0130a1	6.44	
+1/30/2015	Metric Cheese Head Slotted Machine Screw 18-8 Stainless Steel, M2.5 Size, 20 mm Length, .45 mm Pitch	McMaster	Task	0130a1	1.34	
+1/30/2015	Metric Cheese Head Slotted Machine Screw 18-8 Stainless Steel, M2.5 Size, 20 mm Length, .45 mm Pitch	McMaster	Task	0130a1	1.39	
+1/30/2015	20:1 Gear Ratio, 20 Teeth, Worm Gear	SDP-SI	Task	0130a2	19.89	56.36
+1/30/2015	Miniature Pillow-block mounted ball bearings	SDP-SI	Task	0130a2	24.68	
+1/30/2015	8 Pin Ampmodu Connector Housing	DigiKey	Electrical	0130a3	18.12	109.81
+1/30/2015	8 Pin Ampmodu Connectors	DigiKey	Electrical	0130a3	25.20	
+1/30/2015	CONN RCPT 2POS 11.18MM PCB SLDR	DigiKey	Electrical	0130a3	67.82	
+1/30/2015	Sabertooth Dual 12A 6V-24V Regenerative Motor Driver	Robotshop	Electrical	0130d1	399.95	399.95
+2/1/2015	Aluminum Unthreaded Spacer, 1/4" OD, 1/4" Length, #8 Screw Size	McMaster	Task	0201a1	1.08	6.81
+2/4/2015	Thrust Washer, Inside Dia. 0.75 In	Grainger	Task	0204a1	2.66	12.47
+2/4/2015	Needle Thrust Bearing, Bore.750 In	Grainger	Task	0204a1	3.88	
+2/4/2015	Thrust Washer, Inside Dia. 0.25 In	Grainger	Task	0204a1	4.84	
+2/4/2015	Needle Thrust Bearing, Bore.250 In	Grainger	Task	0204a1	5.94	
+2/4/2015	Flanged Single Shield Bearing	SDP-SI	Task	0204a2	25.20	34.27
+2/4/2015	CONN HDR 2POS PCB SLDR	DigiKey	Electrical	0204a3	101.10	114.64
+2/4/2015	220 uF Aluminum Electrolytic Capacitor	DigiKey	Electrical	0204a3	3.30	
+2/4/2015	1mF Aluminum Electrolytic Capacitor	DigiKey	Electrical	0204a3	9.00	
+2/4/2015	2.2 nf Ceramic Capacitor	DigiKey	Electrical	0204a3	2.04	
+2/4/2015	10nf Ceramic Capacitor	DigiKey	Electrical	0204a3	1.62	
+2/4/2015	Automotive Connectors HC STD-TIMER KONT	Mouser	Electrical	0204a4	22.00	62.63
+2/4/2015	Automotive Connectors STD PW TIMER CONTACT	Mouser	Electrical	0204a4	23.00	
+2/4/2015	CONN HSG PLUG 2POS 7.80MM BLACK	DigiKey	Electrical	0204a5	41.40	45.78
+2/5/2015	Materials/Work Order	Cornell	CMR	0216a6	255.60	255.60
+2/6/2015	1-1/2" Thick x 2-1/2" Width	McMaster	Task	0206a1	20.62	26.18
+2/7/2015	Aluminum bar- 2 ft	McMaster	Drive	0207a1	12.75	47.89
+2/7/2015	Aluminum bar- 2 ft	McMaster	Drive	0207a1	21.78	
+2/7/2015	Aluminum bar- 2 ft	McMaster	Drive	0207a1	6.20	
+2/8/2015	Antistatic Wristband	Amazon	Electrical	0208a1	5.68	19.34
+2/8/2015	3-Piece Tweezers	Amazon	Electrical	0208a1	5.56	
+2/8/2015	18 GAUGE WIRE PICK 4 COLORS 100 FT EA PRIMARY AWG STRANDED COPPER POWER REMOTE	eBay	Electrical	0208a2	27.95	46.84
+2/8/2015	Assortment of 5 Colored Wire Rolls 22 Gauge Stranded Core 25ft each 125ft Total	eBay	Electrical	0208a2	18.89	
+2/9/2015	Ready-to-Use Antislip Floor Coating Aerosol Epoxy, 12 Ounce	McMaster	Drive	0209a2	18.32	24.12
+2/9/2015	34:1 Metal Gearmotor 25Dx52L mm HP	Pololu	Task	0209a1	21.95	96.25
+2/9/2015	47:1 Metal Gearmotor 25Dx52L mm HP	Pololu	Task	0209a1	21.95	
+2/9/2015	Krylon Krylon 3400 Clear Non-Skid Coating - 11 oz. Aerosol	Sears	Drive	0209a3	13.16	21.76
+2/10/2015	Connector Board Rover PCB	OSH Park	Electrical	0210a1	155.30	155.30
+2/10/2015	Waterjetting	Cornell	Drive	0210a1	81.00	81.00
+2/25/2015	Zinc Plated Steel Hex Nut Low-Strength, M1.6x0.35 Thread, 3.2mm Wide, 1.3mm High	McMaster	Task	0225a2	8.51	13.91
+2/25/2015	Needle Thrust Bearing, Bore.750 In	Grainger	Task	0225a1	3.88	2.79
+3/8/2015	Easy-to-Machine Polystyrene Sheet	McMaster	Drive	0308a1	8.94	57.04
+3/8/2015	Heavy Load Chrome-Silicon Steel Die Spring	McMaster	Drive	0308a1	41.46	
+3/8/2015	RP-SMA Male to Female Adapter Cable (200CM-Length)	dealextreme	Electrical	0308a2	7.94	20.68
+3/8/2015	2.4GHz 11dBi RP-SMA Omnidirectional WiFi Antenna	dealextreme	Electrical	0308a2	12.74	
+3/9/2015	Internal Billing	Cornell	CMR	0309a1	55.52	55.52
+3/15/2015	NetPrint	Cornell	Business	0315a1	10.52	10.52
+4/15/2015	Travel (Hotel)	Cornell	CMR	0415a1	1,185.00	1,185.00
+4/15/2015	NetPrint	Cornell	Business	0415a2	9.17	9.17
+4/22/2015	Hard High-Strength 7075 Aluminum 1/4" Thick, 1" Wide, 1/2' Long	McMaster	Task	0422a1	9.83	25.78
+4/22/2015	High-Strength Grade 5 Titanium Rod, 1/4" Diameter, 1/2' Long	McMaster	Task	0422a1	10.70	
+4/22/2015	Black-Oxide Alloy Steel Socket Head Cap Screw 4-40 Thread, 1-1/4" Length	McMaster	Task	0422a1	5.25	
+4/30/2015	Accupro - Corner Radius & Corner Chamfer End Mills Mill Diameter (Inch): 1/4 Mill Diameter (Decimal Inch): 0.2500	MSC	Task	0430a1	53.05	69.82
+5/3/2015	CMR Sticker Labels	UPrinting	Business	0503a1	29.08	29.08
+5/3/2015	Diolan	Diolan	Electrical	0503a2	217.30	217.30
+5/3/2015	Two types of Torsion Springs	McMaster	Drive	0503a3	11.02	16.46
+5/8/2015	Logitech HD Webcam C525, Portable HD 720p Video Calling with Autofocus	Amazon	Electrical	0514a1	55.44	55.44
+5/11/2015	Soil Sample chemical stock	Cornell	Science	0511a1	25.00	27.66
+5/11/2015	Antistatic Bubble bags	McMaster	Electrical	0511a2	18.45	118.02
+5/11/2015	Antistatic Bubble bags	McMaster	Electrical	0511a2	19.16	
+5/11/2015	High Strength 1144 Medium Carbon Steel Rod Extra-Strength, 1" Diameter	McMaster	Task	0511a2	14.53	
+5/11/2015	Alloy Steel Shoulder Screw 5/16" Diameter x 4" Long Shoulder, 1/4"-20 Thread	McMaster	Drive	0511a2	12.78	
+5/11/2015	Bracket Type 304 Stainless Steel, 7/8" Length of Sides	McMaster	Drive	0511a2	2.12	
+5/11/2015	Precision Music Wire Extension Spring 1.0" Long, .188" OD, .022" Wire Diameter, Zinc-Plated Steel	McMaster	Drive	0511a2	6.56	
+5/11/2015	Alloy Steel Button-Head Socket Cap Screw Black-Oxide, 8-32 Thread, 1-3/8" Long	McMaster	Drive	0511a2	11.28	
+5/11/2015	Black-Oxide Class 12.9 Socket Head Cap Screw Alloy Steel, M1.6 Thread, 12 mm Long, 0.35mm Pitch	McMaster	Task	0511a2	7.10	
+5/12/2015	154:1 Metal Gearmotor 20Dx44L mm	Pololu	Task	0512a1	48.35	48.35
+5/12/2015	IC socket, 16 pin	Allied Electronics	Electrical	0512a2	4.40	11.10
+5/12/2015	IC socket, 14 pin	Allied Electronics	Electrical	0512a2	6.70	
+5/12/2015	10-pin connector	eBay	Electrical	0512a3	5.99	8.31
+5/12/2015	Zip Ties 8 inch Qty 1,000 Milky White	Amazon	Electrical	0512a4	16.00	42.17
+5/12/2015	URBEST® 6pcs Non­magnetic Steel Fine Curved Tip Tweezers Forceps	Amazon	Electrical	0512a4	7.99	
+5/12/2015	2 of Vktech 280Pcs 2:1 Heat Shrink Tubing Tube Sleeving Wrap Cable Wire 5 Color 8 Size	Amazon	Electrical	0512a4	9.09	
+5/12/2015	Pratt Polyethylene Perforated Industrial Anti­Static Air Bubble Roll	Amazon	CMR	0512a5	32.73	32.73
+5/13/2015	Smart Charger (3.0A) for 25.9V Li-ion/Polymer Rechargeable Battery Pack ( Standard Female Tamiya Plug) 100- 240V --- CE Listed	Batteryspace	Electrical	0513a1	112.77	112.77
+5/13/2015	Tamiya Connector Pack, Female	Pololu	Electrical	0513a3	9.00	22.45
+5/13/2015	Tamiya Connector Pack, Male	Pololu	Electrical	0513a3	9.00	
+5/13/2015	Optoisolator - 4 Channel	SparkFun	Electrical	0513a2	54.75	54.75
+5/14/2015	Logitech HD Webcam C525, Portable HD 720p Video Calling with Autofocus	Amazon	Electrical	0514a1	42.99	42.99
+5/15/2015	Print Job Thank You Cards	Cornell	Business	0515a1	8.65	8.65
+5/15/2015	Envelopes and Stamps	Cornell	Business	0515a2	10.00	10.00
+5/15/2015	Intel Next Unit of Computing Kit BOXD34010WYK1 (Black/White)	Amazon	Electrical	0515a3	255.00	286.90
+5/15/2015	Columbian Invitation Envelopes, A9, Grip­Seal, 5.75 x 8.75 Inch, White, 100 Per Box (CO468)	Amazon	Business	0515a3	10.65	
+5/16/2015	2.4GHz 11dBi RP-SMA Omnidirectional WiFi Antenna	DX	Electrical	0516a1	22.94	22.94
+5/18/2015	NetPrint	Cornell	Business	0518a1	2.16	2.16
+5/18/2015	Mars Society Payment	Mars Society	CMR	0518a2	175.00	175.00
+5/18/2015	University Tickets (Clubfest)	Cornell	CMR	0518a3	12.00	12.00
+5/18/2015	Sponsorship Perks Outbound Mail	Cornell	Business	0518a4	36.31	36.31
+5/18/2015	Rover Shipment (Antenna Base)	FedEx	CMR	0518a1	52.91	52.91
+5/18/2015	Rover Shipment (4 Large Crates)	FedEx	CMR	0518a2	450.42	450.42
+5/18/2015	Drive Motor	MidWest	Drive	0518a3	490.00	490.00
+5/18/2015	Drive Motor Return Shipping	Cornell	Drive	0518a4	12.95	12.95
+12/11/2015	Registration Fee	Mars Society	CMR	0216a1	100.00	100.00
+12/15/2015	NetPrint	Cornell	Business	0216a3	8.82	8.82
+12/15/2015	Pololu Item	Pololu	Electrical		23.90	23.90
+12/15/2015	Pololu Item	Pololu	Electrical		35.85	35.85
+12/16/2015	Newegg Item	Newegg	CMR	0216a2	180.53	180.53
+12/19/2015	PCB	OSH Park	Electrical	1219a1	375.10	375.10
+12/19/2015	PCB	OSH Park	Electrical	1219a2	363.50	363.50
